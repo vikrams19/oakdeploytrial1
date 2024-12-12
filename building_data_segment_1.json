@@ -1,0 +1,777 @@
+{"buildings":[
+    {
+        "id": 1,
+        "building_name": "Aron Art Centre (ARC)",
+        "location_link": "https://maps.app.goo.gl/oRMqV9n4qSoKztXz9?g_st=com.google.maps.preview.copy",
+        " Description": "Its in the north direction from the T, beside the Waren Olney Hall"
+    },
+    {
+        "id": 2,
+        "building_name": "Aron Art Centre A (ACA)",
+        "location_link": "https://maps.app.goo.gl/zwYBVX9vEg2xavc8A",
+        "description": "It is located at the Aron Art Centre, north of the T and beside Warren Olney Hall"
+    },
+    {
+        "id": 3,
+        "building_name": "Aron Art Centre B (ACB)",
+        "location_link": "https://maps.app.goo.gl/SXMh98smpc6Ep7wZA",
+        "description": "It is located at the Aron Art Centre, north of the T and beside Warren Olney Hall"
+    },
+    {
+        "id": 4,
+        "building_name": "Aron Art Centre C (ACC)",
+        "location_link": "https://maps.app.goo.gl/mGvMgFNbW1tz87UC9",
+        "description": "It is located at the Aron Art Centre, north direction from the T and beside Warren Olney Hall"
+    },
+    {
+        "id": 5,
+        "building_name": "Aron Art Centre D (ACD)",
+        "location_link": "https://maps.app.goo.gl/3JLCYg1Z7a6yc3ns5",
+        "description": "It is located behind Aron Art Centre, north direction from the T and beside Warren Olney Hall"
+    },
+    {
+        "id": 6,
+        "building_name": "Aron Art Centre E (ACE)",
+        "location_link": "https://maps.app.goo.gl/UcQmaRFvLspweEDf7",
+        "description": "It is located behind Aron Art Centre, north direction from the T and beside Warren Olney Hall"
+    },
+    {
+        "id": 7,
+        "building_name": "Aron Art Centre F (ACF)",
+        "location_link": "https://maps.app.goo.gl/iuDxTgA8Z1MM3H9y9",
+        "description": "It is located behind Aron Art Centre, north direction from the T and beside Warren Olney Hall"
+    },
+    {
+        "id": 8,
+        "building_name": "Art Museum (ART)",
+        "location_link": "https://maps.app.goo.gl/Eru3ne1WxihcMJDo6",
+        "description": "It is located behind Aron Art Centre, north direction from the T and beside Warren Olney Hall"
+    },
+    {
+        "id": 9,
+        "building_name": "Botanic Garden / Gaia House (BGH)",
+        "location_link": "https://maps.app.goo.gl/Z1dmfYwKV7knjyPk9",
+        "description": "Located between Rothwell Centre and Natural Science Building"
+    },
+    {
+        "id": 10,
+        "building_name": "Carnegie Hall (CNG)",
+        "location_link": "https://maps.app.goo.gl/YgCGHS6qKMfhUQws5",
+        "description": "Located on East direction from The Oval , beside Mills Hall and Sage Hall"
+    },
+    {
+        "id": 11,
+        "building_name": "Chapel (CHP)",
+        "location_link": "https://maps.app.goo.gl/qtMN5xbtuNin9siB6",
+        "description": "Second building on the right from the Gate"
+    },
+    {
+        "id": 12,
+        "building_name": "Cowell (COW)",
+        "location_link": "https://maps.app.goo.gl/sEaqei1rNx5ALrex9",
+        "description": "Its Located near the T"
+    },
+    {
+        "id": 13,
+        "building_name": "CPM",
+        "location_link": "https://maps.app.goo.gl/93KBKGN1deRdKgUW9",
+        "description": "Located in South direction from the oval , opposite of the Mills Hall"
+    },
+    {
+        "id": 14,
+        "building_name": "Education Complex / Children's School (EDC)",
+        "location_link": "https://maps.app.goo.gl/kARsvKbSKyij2Dss7",
+        "description": "Located at the wetmorese Gate (closed) and behind CPM and Student Health Centre"
+    },
+    {
+        "id": 15,
+        "building_name": "F. W. Olin Library (LIB)",
+        "location_link": "https://maps.app.goo.gl/VSs6DYLVExFZxGUo9",
+        "description": "Located at the T"
+    },
+    {
+        "id": 16,
+        "building_name": "Fine Arts Annex (FAX)",
+        "location_link": "https://maps.app.goo.gl/JqzztpktuNjJJASB9",
+        "description": "Located on Kapiolani Road , beside the Lucie Stern Hall"
+    },
+    {
+        "id": 17,
+        "building_name": "Founder's Common (FND)",
+        "location_link": "https://maps.app.goo.gl/meVNxuhGsPuQW15z7",
+        "description": "Located at North-east of the Campus on the Pine Top Road, in between White Hall, Ege Hall and Reinhart Hall"
+    },
+    {
+        "id": 18,
+        "building_name": "Greek Theatre (GRK)",
+        "location_link": "https://maps.app.goo.gl/AjBf2ffngMZ3oT8Z8",
+        "description": "Located on Richards Road at Jeannik M\u00e9quet Littlefield Concert Hall"
+    },
+    {
+        "id": 19,
+        "building_name": "Kapiolani Cottage (KPC)",
+        "location_link": "https://maps.app.goo.gl/Zb1SreapAHL3V4FCA",
+        "description": "Located on Kapiolani Road, adjacent to Fine Arts Annex"
+    },
+    {
+        "id": 20,
+        "building_name": "Kimball House (KIM)",
+        "location_link": "https://maps.app.goo.gl/9XuHKjUtJ6TP2r5a9",
+        "description": "Located on Wetmore Road, opposite of Children's School"
+    },
+    
+    {"id": 21, "name": "Larsen House (LRS)", "location_link": "https://maps.app.goo.gl/s98LP8eWq8VrcgmJA", "description": "Located behind Botanic Garden / Gaia House and beside Natural Science Building"},
+    {"id": 22, "name": "Lisser Hall (LIS)", "location_link": "https://maps.app.goo.gl/Gu74NV2qxB2UxLxw6", "description": "Located at the T opposite of the F. W. Olin Library"},
+    {"id": 23, "name": "Littlefeild Concert Hall (LCH)", "location_link": "https://maps.app.goo.gl/6GkkdP4FkAxFYwhTA", "description": "Located on Richards Road, 3rd building from Security Gate"},
+    {"id": 24, "name": "Lokey School (GSB)", "location_link": "https://maps.app.goo.gl/NPWhrP6mJLdoga3B6", "description": "Located at the T, on Richards Road and Kapiolani Road"},
+    {"id": 25, "name": "Mills Hall (MLS)", "location_link": "https://maps.app.goo.gl/xCLj6XqoTEZ2VHuY6", "description": "Located at the Holmgren Meadow"},
+    {"id": 26, "name": "Moore Natural Science Building (NSB)", "location_link": "https://maps.app.goo.gl/p28BpqUomUmZmrt76", "description": "Located near the Holmgren Meadow, beside Rothwell Centre"},
+    {"id": 27, "name": "Music Building (MUS)", "location_link": "https://maps.app.goo.gl/bbxndJaAtbZjQt1C8", "description": "Located on Richards Road, second building on the right from the security gate"},
+    {"id": 28, "name": "Reinhardt Alumnae House (RAH)", "location_link": "https://maps.app.goo.gl/rTBcYQza2zArjdFj9", "description": "Located on the right side of Aron Art Centre, beside Warren Olney Hall"},
+    {"id": 29, "name": "Richards Lodge (RCH)", "location_link": "https://maps.app.goo.gl/dja6GtpdqQCuY8Mh9", "description": "Located at the Security Gate"},
+    {"id": 30, "name": "Ross House (ROS)", "location_link": "https://maps.app.goo.gl/FwNrgD66VBrj8Pg26", "description": "Located beside Natural Science Building at Holmgren Meadow"},
+    {"id": 31, "name": "Rothwell Centre (RTC)", "location_link": "https://maps.app.goo.gl/TZqr1TiDXza8egpY6", "description": "Located at Holmgren Meadow, between F. W. Olin Library and Natural Science Building"},
+    {"id": 32, "name": "Sage Hall (SGH)", "location_link": "https://maps.app.goo.gl/YtkWBoPbyenXJ8M89", "description": "Located on the left side of the Mills Hall, beside Carnegie Hall"},
+    {"id": 33, "name": "Stern Hall (STN)", "location_link": "https://maps.app.goo.gl/Zt8gAAYmssfdN3W58", "description": "Located on the Kapiolani Road, in South Direction from the T"},
+    {"id": 34, "name": "Student Health Centre (SHC)", "location_link": "https://maps.app.goo.gl/FETLbyeeWR7wbyFe6", "description": "Located on Wetmore Road, behind CPM Building"},
+    {"id": 35, "name": "Wetmore Lodge (WET)", "location_link": "https://maps.app.goo.gl/LD1RYUrAN6pJyfju7", "description": "Located at the Wetmore gate"},
+    {"id": 36, "name": "Vera M. Long Building (VML)", "location_link": "https://maps.app.goo.gl/sMNPEaoykNfsCmXt5", "description": "Located on Post Road, behind Rothwell Centre"},
+    {"id": 37, "name": "Visitor Centre (VTC)", "location_link": "https://maps.app.goo.gl/hg5GjnHHb4jDmyAE8", "description": "Located at the T, Opposite of the F. W. Olin Library"},
+    {"id": 38, "name": "Courtyard Townhouse (CYT)", "location_link": "https://maps.app.goo.gl/MxDRm6aVYYyEh2zv8", "description": "It is located on Underwood Avenue; take an immediate right from the security gate and go up the hill. It's the first building on the right"},
+    {"id": 39, "name": "Ege Hall (EGE)", "location_link": "https://maps.app.goo.gl/GAGjHodBoaJ5KHs1A", "description": "Located beside the Founders Common"},
+    {"id": 40, "name": "Ethel Moore Hall (EMH)", "location_link": "https://maps.app.goo.gl/6ZkfaDb6UeBxjaEWA", "description": "Located on Prospect Hill Road"},
+    {"id": 31, "name": "Rothwell Centre (RTC)", "location_link": "https://maps.app.goo.gl/TZqr1TiDXza8egpY6", "description": "Located at Holmgren Meadow, between F. W. Olin Library and Natural Science Building"},
+    {"id": 32, "name": "Sage Hall (SGH)", "location_link": "https://maps.app.goo.gl/YtkWBoPbyenXJ8M89", "description": "Located on the left side of the Mills Hall, beside Carnegie Hall"},
+    {"id": 33, "name": "Stern Hall (STN)", "location_link": "https://maps.app.goo.gl/Zt8gAAYmssfdN3W58", "description": "Located on the Kapiolani Road, in South Direction from the T"},
+    {"id": 34, "name": "Student Health Centre (SHC)", "location_link": "https://maps.app.goo.gl/FETLbyeeWR7wbyFe6", "description": "Located on Wetmore Road, behind CPM Building"},
+    {"id": 35, "name": "Wetmore Lodge (WET)", "location_link": "https://maps.app.goo.gl/LD1RYUrAN6pJyfju7", "description": "Located at the Wetmore gate"},
+    {"id": 36, "name": "Vera M. Long Building (VML)", "location_link": "https://maps.app.goo.gl/sMNPEaoykNfsCmXt5", "description": "Located on Post Road, behind Rothwell Centre"},
+    {"id": 37, "name": "Visitor Centre (VTC)", "location_link": "https://maps.app.goo.gl/hg5GjnHHb4jDmyAE8", "description": "Located at the T, Opposite of the F. W. Olin Library"},
+    {"id": 38, "name": "Courtyard Townhouse (CYT)", "location_link": "https://maps.app.goo.gl/MxDRm6aVYYyEh2zv8", "description": "It is located on Underwood Avenue; take an immediate right from the security gate and go up the hill. It's the first building on the right"},
+    {"id": 39, "name": "Ege Hall (EGE)", "location_link": "https://maps.app.goo.gl/GAGjHodBoaJ5KHs1A", "description": "Located beside the Founders Common"},
+    {"id": 40, "name": "Ethel Moore Hall (EMH)", "location_link": "https://maps.app.goo.gl/6ZkfaDb6UeBxjaEWA", "description": "Located on Prospect Hill Road"},
+    {"id": 41, "name": "Faculty Village (FAV)", "location_link": "https://maps.app.goo.gl/wrtDFvBUU3w7EXbi9", "description": "Located near Wetmore Gate (Closed), next to Prospect Hill"},
+    {"id": 42, "name": "Mary Morse Hall (MMH)", "location_link": "https://maps.app.goo.gl/481SvK6SygbPLiv98", "description": "Located on the Prospect Hill Road"},
+    {"id": 43, "name": "Orchard Meadow Hall (OMH)", "location_link": "https://maps.app.goo.gl/je4NAMbgatwCrFvG8", "description": "Located at the President's Meadow"},
+    {"id": 44, "name": "Prospect Hill Apartments (PHA)", "location_link": "https://maps.app.goo.gl/rbKifG2PHagZ841PA", "description": "Located on Underwood Avenue, take immediate right from the security gate, first building to the left"},
+    {"id": 45, "name": "Reinhardt Hall (RNH)", "location_link": "https://maps.app.goo.gl/KzfuVX9Rvxkwwd6X8", "description": "Located on Post Road, in front of the Founders Common"},
+    {"id": 46, "name": "Underwood Apartments (UMA)", "location_link": "https://maps.app.goo.gl/1PVAtXxpmJwk5PFWA", "description": "Located on Underwood Avenue, take immediate right from the security gate, second building on the right"},
+    {"id": 47, "name": "Warren Olney Hall (WOH)", "location_link": "https://maps.app.goo.gl/3Vj52EpRgAj7FnLx8", "description": "Located on North direction from the T, behind the Lokey Loore Business School (GSB)"},
+    {"id": 48, "name": "White Hall (WTH)", "location_link": "https://maps.app.goo.gl/9GZugkKskzbRBTgt5", "description": "Located on Pine Top Road, beside the Founders Common"},
+    {"id": 49, "name": "Community Farm (CF)", "location_link": "https://maps.app.goo.gl/p7oBYW8x6oWqjXoaA", "description": "Located at the Zipcar Station, near the Guard Booth. Close to the security gate"},
+    {"id": 50, "name": "Haas Pavilion (HP)", "location_link": "https://maps.app.goo.gl/T5rwnPa8PrKzzGqH9", "description": "Located first building to the left from the security gate, between soccer field and President's Meadow"},
+    {"id": 51, "name": "Hellman Soccer Field (SF)", "location_link": "https://maps.app.goo.gl/yLLySpoTR8TYmES3A", "description": "Located near the security gate"},
+    {"id": 52, "name": "Meyer Tennis Centre (TC)", "location_link": "https://maps.app.goo.gl/HsbtLUH8F2p6hRPv6", "description": "Located behind the Haas Pavilion next to the soccer field and Aquarium"},
+    {"id": 53, "name": "Trefethen Aquatic Centre (AC)", "location_link": "https://maps.app.goo.gl/vb8UX8cFWG37u8av6", "description": "Located behind Haas Pavilion, between Soccer Field and Tennis Court"}
+],
+"911_emergency_stations" : [
+  {
+    "id": 1,
+    "name": "Station 1",
+    "location_link": "https://maps.app.goo.gl/kpftBFpX5iCmVdNp8",
+    "latitude": 37.781610,
+    "longitude": -122.184160,
+    "description": "Near soccer field",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["soccer field", "emergency", "help"]
+  },
+  {
+    "id": 2,
+    "name": "Station 2",
+    "location_link": "https://maps.app.goo.gl/7b6VsbD1tyRqjERFA",
+    "latitude": 37.781610,
+    "longitude": -122.184160,
+    "description": "Front of Music Building",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["music building", "emergency", "help"]
+  },
+  {
+    "id": 3,
+    "name": "Station 3",
+    "location_link": "https://maps.app.goo.gl/1NpsPGE4mFhZJzpFA",
+    "latitude": 37.783057,
+    "longitude": -122.182728,
+    "description": "Near Orchid Meadows Residential Parking",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["parking", "emergency", "help"]
+  },
+  {
+    "id": 4,
+    "name": "Station 4",
+    "location_link": "https://maps.app.goo.gl/QqPReSu1Eh4oxQus5",
+    "latitude": 37.782226,
+    "longitude": -122.182120,
+    "description": "Front of Warren Olney Hall",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["warren olney hall", "emergency", "help"]
+  },
+  {
+    "id": 5,
+    "name": "Station 5",
+    "location_link": "https://maps.app.goo.gl/RynBx8M9spyYuv2G8",
+    "latitude": 37.782558,
+    "longitude": -122.180503,
+    "description": "Near Reinhardt Alumnae House",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["alumnae house", "emergency", "help"]
+  },
+  {
+    "id": 6,
+    "name": "Station 6",
+    "location_link": "https://maps.app.goo.gl/nYVWNa1Tg9uKazfj7",
+    "latitude": 37.781729,
+    "longitude": -122.179420,
+    "description": "Near White Hall on Pine Road",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["white hall", "pine road", "emergency", "help"]
+  },
+  {
+    "id": 7,
+    "name": "Station 7",
+    "location_link": "https://maps.app.goo.gl/Zo7QuHYjbr1BimFw6",
+    "latitude": 37.781400,
+    "longitude": -122.177027,
+    "description": "At Pine Top Trek Path",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["trek path", "emergency", "help"]
+  },
+  {
+    "id": 8,
+    "name": "Station 8",
+    "location_link": "https://maps.app.goo.gl/uNzCZ3X5CHKjF4Bn6",
+    "latitude": 37.780903,
+    "longitude": -122.176354,
+    "description": "Near Corporation Yard Loading Dock and Delivery Gate",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["loading dock", "delivery gate", "emergency", "help"]
+  },
+  {
+    "id": 9,
+    "name": "Station 9",
+    "location_link": "https://maps.app.goo.gl/AKPGgcwpUxoxnpJR9",
+    "latitude": 37.780830,
+    "longitude": -122.180118,
+    "description": "Near Larsen Hall on Post Road",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["larsen hall", "post road", "emergency", "help"]
+  },
+  {
+    "id": 10,
+    "name": "Station 10",
+    "location_link": "https://maps.app.goo.gl/UXD4ehBn5p789SB16",
+    "latitude": 37.779797,
+    "longitude": -122.181433,
+    "description": "Near Sage Hall",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["sage hall", "emergency", "help"]
+  },
+  {
+    "id": 11,
+    "name": "Station 11",
+    "location_link": "https://maps.app.goo.gl/Typi6K7A7TKisD9w9",
+    "latitude": 37.777605,
+    "longitude": -122.183182,
+    "description": "Near CPM Building on Wetmore Road",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["CPM building", "wetmore road", "emergency", "help"]
+  },
+  {
+    "id": 12,
+    "name": "Station 12",
+    "location_link": "https://maps.app.goo.gl/j671wYBoV1g8pTpP6",
+    "latitude": 37.776778,
+    "longitude": -122.184128,
+    "description": "Near Wetmore Gate",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["wetmore gate", "emergency", "help"]
+  },
+  {
+    "id": 13,
+    "name": "Station 13",
+    "location_link": "https://maps.app.goo.gl/wG5T2dphWsP3weHY8",
+    "latitude": 37.777434,
+    "longitude": -122.185030,
+    "description": "Near Faculty Village",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["faculty village", "emergency", "help"]
+  },
+  {
+    "id": 14,
+    "name": "Station 14",
+    "location_link": "https://maps.app.goo.gl/rHDyYziQfeB2akmh8",
+    "latitude": 37.779546,
+    "longitude": -122.185109,
+    "description": "Near Marry Morse Hall",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["marry morse hall", "emergency", "help"]
+  },
+  {
+    "id": 15,
+    "name": "Station 15",
+    "location_link": "https://maps.app.goo.gl/sqUa9S8YgSfMBJBq6",
+    "latitude": 37.781514,
+    "longitude": -122.187092,
+    "description": "Near Community Farm and Zipcar Station",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["community farm", "zipcar station", "emergency", "help"]
+  },
+  {
+    "id": 16,
+    "name": "Station 16",
+    "location_link": "https://maps.app.goo.gl/1j33fkKLk5T1EFNs6",
+    "latitude": 37.780634,
+    "longitude": -122.181762,
+    "description": "Front of Rothwell Centre",
+    "operational_hours": "24/7",
+    "type": "Emergency Phone",
+    "accessible": true,
+    "tags": ["rothwell centre", "emergency", "help"]
+  }
+]
+
+
+,
+"ATM": [
+    {"id": 1, "Description": "In Rothwell Centre out side Tea Shop"
+    }
+],
+"guest_parking_data": [
+    {"id": 1, "name": "Parking 1", "location_link": "https://maps.app.goo.gl/Lg8WNXHWunKYZrGc7", "latitude": 37.782547, "longitude": -122.181588, "description": "Front of Aron Art Center"},
+    {"id": 2, "name": "Parking 2", "location_link": "https://maps.app.goo.gl/KCvfYBgGi6tbcrWP6", "latitude": 37.781981, "longitude": -122.181411, "description": "On Post Road"},
+    {"id": 3, "name": "Parking 3", "location_link": "https://maps.app.goo.gl/76qgJf6tRe9xaKmQA", "latitude": 37.782575, "longitude": -122.180547, "description": "Front of Reinhardt Alumnae House"},
+    {"id": 4, "name": "Parking 4", "location_link": "https://maps.app.goo.gl/eEysU9eKGWLipzv78", "latitude": 37.781921, "longitude": -122.180711, "description": "Near Vera M. Long Building"},
+    {"id": 5, "name": "Parking 5", "location_link": "https://maps.app.goo.gl/exWoefdMbkmpUHnR9", "latitude": 37.780809, "longitude": -122.178103, "description": "Near Ege Hall, on Pine Top Road"},
+    {"id": 6, "name": "Parking 6", "location_link": "https://maps.app.goo.gl/FQhxiDMSFfUxbcXb9", "latitude": 37.780829, "longitude": -122.180070, "description": "Near Larsen House"},
+    {"id": 7, "name": "Parking 7", "location_link": "https://maps.app.goo.gl/JYFn6fQyyaKyhUtq6", "latitude": 37.780311, "longitude": -122.180073, "description": "Behind Natural Science Building"},
+    {"id": 8, "name": "Parking 8", "location_link": "https://maps.app.goo.gl/nE7JbN9UcA4V3gYe8", "latitude": 37.778114, "longitude": -122.182544, "description": "Near CPM Building, on Wetmore Road"},
+    {"id": 9, "name": "Parking 9", "location_link": "https://maps.app.goo.gl/ipiQCGPdmKG9ah7S9", "latitude": 37.777705, "longitude": -122.184427, "description": "Near Ethel Moore Hall"},
+    {"id": 10, "name": "Parking 10", "location_link": "https://maps.app.goo.gl/pQ3TmQVTEtJP2h4q8", "latitude": 37.779055, "longitude": -122.183099, "description": "Besides CPM Building"},
+    {"id": 11, "name": "Parking 11", "location_link": "https://maps.app.goo.gl/ypjjY6yogrFJHXgX8", "latitude": 37.779589, "longitude": -122.182696, "description": "Near The Oval"},
+    {"id": 12, "name": "Parking 12", "location_link": "https://maps.app.goo.gl/Rq31gmjaU7ucbNvj9", "latitude": 37.779433, "longitude": -122.183846, "description": "Between Fine Arts Annex and Kapiolani Cottage"},
+    {"id": 13, "name": "Parking 13", "location_link": "https://maps.app.goo.gl/b9jpZJGhZXG52JdRA", "latitude": 37.780339, "longitude": -122.183072, "description": "Between Stern Hall and Lisser Hall"},
+    {"id": 14, "name": "Parking 14", "location_link": "https://maps.app.goo.gl/9EMq6h2MutBhVMgy9", "latitude": 37.780294, "longitude": -122.183901, "description": "Behind the Cowell Building"},
+    {"id": 15, "name": "Parking 15", "location_link": "https://maps.app.goo.gl/g5uz1GRzU5yMTSnq6", "latitude": 37.781894, "longitude": -122.187258, "description": "Near Community Farm"}
+],
+"ev_charging_data" : [
+    {"id": 1, "name": "EV Station 1", "location_link": "https://maps.app.goo.gl/5hmL8chzofhBkwRf7", "latitude": 37.781280, "longitude": -122.181114, "description": "Behind Rothwell Centre on Post Road"},
+    {"id": 2, "name": "EV Station 2", "location_link": "https://maps.app.goo.gl/Nwu9cudrNo5BKzEV6", "latitude": 37.781003, "longitude": -122.180710, "description": "Beside Rothwell Centre"}
+],
+"guard_booths_data" : [
+    {"id": 1, "name": "Guard Booth 1", "location_link": "https://maps.app.goo.gl/EUbBWNiNZn9LkX2n7", "latitude": 37.780532, "longitude": -122.175577, "description": "On Pine Top Road"},
+    {"id": 2, "name": "Guard Booth 2", "location_link": "https://maps.app.goo.gl/jQkwaYGwmXWQfoyb6", "latitude": 37.776667, "longitude": -122.184225, "description": "On Wetmore Road"}
+],
+"resident_parking_data":[
+    {"id": 1, "name": "Residential Parking 1", "location_link": "https://maps.app.goo.gl/nVFWVHzkBHThPUmD8", "latitude": 37.781520, "longitude": -122.185956, "description": "Front of Courtyard Townhouse, on Underwood Avenue Road"},
+    {"id": 2, "name": "Residential Parking 2", "location_link": "https://maps.app.goo.gl/3yQJYhf3Ewm9z6uE9", "latitude": 37.781124, "longitude": -122.185507, "description": "Front of Underwood Apartments, on Underwood Avenue Road"},
+    {"id": 3, "name": "Residential Parking 3", "location_link": "https://maps.app.goo.gl/mWnYnBLbaj9jaDYs8", "latitude": 37.779833, "longitude": -122.18519, "description": "Near Prospect Hill Apartments, on Prospect Hill Road"},
+    {"id": 4, "name": "Residential Parking 4", "location_link": "https://maps.app.goo.gl/afXXWv5AZH4RVGQDA", "latitude": 37.779367, "longitude": -122.185101, "description": "Near Mary Morse Hall, on Prospect Hill Road"},
+    {"id": 5, "name": "Residential Parking 5", "location_link": "https://maps.app.goo.gl/VHTUifqiP1KDVxJM7", "latitude": 37.778682, "longitude": -122.184424, "description": "Near Ethel Moore Hall, on Prospect Hill Road"},
+    {"id": 6, "name": "Residential Parking 6", "location_link": "https://maps.app.goo.gl/157Hef6oSiR87fUK8", "latitude": 37.780722, "longitude": -122.179822, "description": "Near Reinhardt Hall, On Post Road"},
+    {"id": 7, "name": "Residential Parking 7", "location_link": "https://maps.app.goo.gl/q65Jeg41HL33PE5h8", "latitude": 37.782379, "longitude": -122.18187, "description": "Front of Warren Olney Hall"},
+    {"id": 8, "name": "Residential Parking 8", "location_link": "https://maps.app.goo.gl/x4JHKNQscUo55bns8", "latitude": 37.781949, "longitude": -122.182752, "description": "Between Warren Olney Hall and GSB Building"},
+    {"id": 9, "name": "Residential Parking 9", "location_link": "https://maps.app.goo.gl/v2YTgtai7j1L8JTU8", "latitude": 37.781708, "longitude": -122.183868, "description": "Near President’s Meadow, on Richards Road"},
+    {"id": 10, "name": "Residential Parking 10", "location_link": "https://maps.app.goo.gl/ejw8kkQBFH9L7fcj6", "latitude": 37.783010, "longitude": -122.182454, "description": "Near Orchard Meadow Hall"}
+],
+"zip_carshare_data" : [
+
+    
+ {       "id": 1,
+        "name": "Zipcar Station 1",
+        "location_description": "Near Community Farm and Parking Lot C",
+        "location_link": "https://maps.app.goo.gl/1grFEUt5bF7ZRVPA7",
+        "latitude": 37.781896,
+        "longitude": -122.187265,
+        "description": "Zipcar is a car-sharing service that allows students to rent vehicles on demand. Located conveniently near Community Farm, these stations provide easy access to transportation for students without personal vehicles.",
+        "benefits": [
+            "Cost-effective alternative to owning a car.",
+            "Flexibility to rent cars by the hour or day.",
+            "Environmentally friendly by reducing campus traffic and parking demand.",
+            "Access to cars for off-campus errands, internships, and day trips."
+        ],
+        "app_links": {
+            "android": "https://play.google.com/store/apps/details?id=com.zc.android",
+            "ios": "https://app.appsflyer.com/id329384702?pid=web&c=homepage_desktop_badge-ios"
+        }}
+      ]
+
+,
+"departments_offices": [
+    {
+      "name": "Academic Advising",
+      "location": "Carnegie Hall, First floor lobby",
+      "email": ["oaklandadvising@northeastern.edu", "oaklandacademics@northeastern.edu"],
+      "phone": null,
+      "description": "Academic questions and concerns"
+    },
+    {
+      "name": "Accounts Payable",
+      "location": "Sage Hall, Room 105",
+      "email": null,
+      "phone": "510.430.2121",
+      "description": null
+    },
+    {
+      "name": "Admissions",
+      "undergraduate": {
+        "location": "Lisser Hall",
+        "email": "oaklandadmissions@northeastern.edu",
+        "phone": "510.430.2135"
+      },
+      "graduate": {
+        "email": "oaklandrecruitment@northeastern.edu"
+      }
+    },
+    {
+      "name": "Alumnae Association of Mills College",
+      "location": "Reinhardt Alumnae House",
+      "email": "info@aamc-mills.org",
+      "phone": "510.430.2110",
+      "description": null
+    },
+    {
+      "name": "Alumnae Relations",
+      "location": "Reinhardt Alumnae House",
+      "email": "mills.alumnaerelations@northeastern.edu",
+      "phone": "510.430.2123",
+      "description": null
+    },
+    {
+      "name": "Art Museum",
+      "location": "Aron Art Center",
+      "email": "millsartmuseum@northeastern.edu",
+      "phone": "510.430.2164",
+      "description": null
+    },
+    {
+      "name": "Audio-Visual Technical Services",
+      "location": "Fine Arts Annex",
+      "email": "oaklandAVsupport@northeastern.edu",
+      "phone": "510.430.2211",
+      "description": null
+    },
+    {
+      "name": "Café Suzie",
+      "location": "Rothwell Center",
+      "email": null,
+      "phone": null,
+      "description": null
+    },
+    {
+      "name": "Campus Sports and Recreation",
+      "location": "Haas Pavilion",
+      "email": "oaklandrecreation@northeastern.edu",
+      "phone": "510.430.2395",
+      "description": null
+    },
+    {
+      "name": "Career Connections and Community Engagement",
+      "location": "Carnegie Hall, Room 105",
+      "email": "oaklandcareer@northeastern.edu",
+      "phone": "510.430.3142",
+      "description": null
+    },
+    {
+      "name": "Cashier",
+      "location": "Sage Hall",
+      "email": null,
+      "phone": "510.430.3205",
+      "description": null
+    },
+    {
+      "name": "Center for Leadership, Equity, and Excellence",
+      "location": "Rothwell Center",
+      "email": "oaklandclee@northeastern.edu",
+      "phone": "510.430.3151",
+      "description": null
+    },
+    {
+      "name": "Chapel",
+      "location": null,
+      "email": "oaklandCLEE@northeastern.edu",
+      "phone": null,
+      "description": null
+    },
+    {
+      "name": "Children’s School",
+      "location": "Education Complex",
+      "email": "children@northeastern.edu",
+      "phone": "510.430.2118",
+      "description": null
+    },
+    {
+      "name": "College Events Office",
+      "location": "Sage Hall, Room 129",
+      "email": "oaklandevents@northeastern.edu",
+      "phone": "510.430.3230",
+      "description": null
+    },
+    {
+      "name": "Counseling and Psychological Services",
+      "location": "Cowell",
+      "email": "oakland-counseling@northeastern.edu",
+      "phone": "510.430.2111",
+      "description": null
+    },
+    {
+      "name": "Dining Services",
+      "location": "Sage Hall, Room 138",
+      "email": null,
+      "phone": "510.430.2042",
+      "description": null
+    },
+    {
+      "name": "Disability Access Services",
+      "location": "Sage Hall, Room 142A",
+      "email": "oaklandaccess@northeastern.edu",
+      "phone": "510.430.3307",
+      "description": null
+    },
+    {
+      "name": "Division of Student Life",
+      "location": "Cowell",
+      "email": null,
+      "phone": "510.430.2130",
+      "description": null
+    },
+    {
+      "name": "Entrepreneurship",
+      "location": "Mills Hall, Suite 109",
+      "email": "nu.oakland.ee@northeastern.edu",
+      "phone": null,
+      "description": null
+    },
+    {
+      "name": "Facilities",
+      "location": "Corporation Yard",
+      "email": "oaklandfacilities@northeastern.edu",
+      "phone": "510.430.2146",
+      "description": "24-hour line: 617.373.2754"
+    }
+  ],
+"security_gate": {
+    "description": "The security gate ensures the safety and security of all individuals entering the campus.",
+    "entry_requirements": {
+        "students": {
+            "requirement": "Husky Card or any valid government-issued ID",
+            "note": "Students must carry their Husky Card at all times to facilitate smooth entry."
+        },
+        "non_students": {
+            "requirement": "Valid government-issued ID",
+            "note": "Visitors, including family and friends, must provide a valid government ID to gain entry."
+        }
+    },
+    "additional_info": "The security gate staff are available 24/7 to assist with any questions or concerns. For emergencies, contact campus security immediately.",
+    "contact_info": {
+        "phone": "+1-555-123-4567",
+        "email": "security@oakland.northeastern.edu"
+    }
+}, 
+"campus_sports_recreation": {
+    "description": "Campus Sports and Recreation provides a wide range of facilities and activities designed to promote health, fitness, and social engagement among students.",
+    "facilities": [
+        {
+            "name": "Fitness Center",
+            "description": "Located in Haas Pavilion, the Fitness Center features state-of-the-art equipment for individual workouts and group fitness classes.",
+            "hours": "6:00 AM - 10:00 PM daily",
+            "equipment": [
+                "Treadmills",
+                "Elliptical machines",
+                "Free weights",
+                "Resistance machines"
+            ]
+        },
+        {
+            "name": "Tennis Courts",
+            "description": "Outdoor courts available for tennis and pickleball. Equipment can be rented at the Fitness Center.",
+            "hours": "6:00 AM - 10:00 PM daily",
+            "reservation_policy": "Reservations can be made online or drop-ins are allowed if courts are available."
+        },
+        {
+            "name": "Aquatic Center",
+            "description": "Features a 10-lane outdoor swimming pool for lap swim, water polo, and fitness classes.",
+            "hours": "Varies by semester. Check the online schedule for details.",
+            "special_features": "Public access available at specific times.",
+            "calendar_link": "https://outlook.office365.com/calendar/published/6b0d6d7d1cac4e7c87760b7b8802fc09@northeastern.edu/08cbbcccb8f34b76833c3bac4e30967812111475007683985818/calendar.html"
+        },
+        {
+            "name": "Haas Gymnasium",
+            "description": "A versatile indoor facility for basketball, volleyball, badminton, and more. It also hosts intramural sports and club practices.",
+            "hours": "Open for general use during non-event hours. Check the schedule for updates.",
+            "calendar_link": "https://outlook.office365.com/calendar/published/d78891528909424b80dd3308680a0718@northeastern.edu/632ad4c13fc94870862fa3666d83fb2614220773859629851986/calendar.html"
+        },
+        {
+            "name": "Pine Top Trail",
+            "description": "A scenic 2.5-mile loop trail on campus for walking, jogging, and cycling. Passes through key campus landmarks, including the farm and Eucalyptus groves.",
+            "special_features": "Ideal for exploring the campus’s natural beauty and staying active outdoors."
+        },
+        {
+            "name": "Soccer Field",
+            "description": "Soccer field with a running track for student games, practice, and fitness activities.",
+            "calendar_link": "https://outlook.office365.com/calendar/published/201ad9bdb00943ae8bdf744687aad9a7@northeastern.edu/f37fda8ea77045b283fb5de80b7470b26451826199943932591/calendar.html"
+        }
+    ],
+    "activities": [
+        "Intramural sports: Basketball, volleyball, badminton, and soccer",
+        "Club sports: Swimming, tennis, ultimate frisbee, and lacrosse",
+        "Fitness classes: Yoga, Pilates, spinning, and kickboxing",
+        "Outdoor excursions: Hiking, kayaking, and whale watching trips"
+    ],
+    "intramural_sports": {
+        "description": "Recreational sports leagues organized within Northeastern University Oakland for fun and social interaction.",
+        "registration_link": "https://www.imleagues.com/spa/club/2d32e3c6360a4952be664270b800a89b/home",
+        "waiver_form_link": "https://forms.office.com/r/GwUfVqpJp1"
+    },
+    "club_sports": {
+        "description": "Programs providing competitive space between other universities and teams. Includes professional or student-led teams.",
+        "teams": ["Badminton", "Climbing", "Cross Country", "Golf", "Rowing", "Soccer", "Swimming", "Tennis", "Volleyball"],
+        "goals": [
+            "Provide students opportunities for intercollegiate physical activity.",
+            "Develop leadership skills through team organization.",
+            "Forge relationships and camaraderie through team activities."
+        ],
+        "contact": {
+            "name": "Quinn Cavalli",
+            "email": "q.cavalli@northeastern.edu"
+        }
+    },
+    "excursions": {
+        "description": "One-time off-campus outings for exciting adventures like hiking, kayaking, and more. Registration and interest forms open at the beginning of the semester."
+    },
+    "contact_info": {
+        "phone": "+1-555-987-6543",
+        "email": "sports@oakland.northeastern.edu"
+    },
+    "discord_server": "https://discord.com/invite/TFgn6JqNds",
+    "additional_info": "For schedules, reservations, and upcoming events, visit the Sports and Recreation section on the campus portal or contact the office."
+},
+"fw_olin_library": {
+    "description": "The F. W. Olin Library is a light-filled, intellectual hub on campus known for its rich collections in literature, history, women’s studies, art, and music. It provides students access to electronic databases, 240,000+ catalog volumes, rare books, and manuscripts in the Heller Rare Book Room. Students also benefit from the digital resources available through Northeastern’s Snell Library.",
+    "website": "https://library.northeastern.edu/global_campus/global-campus-portals/oakland/",
+    "visiting_information": {
+        "access": "Students studying on the Oakland campus and in the Bay Area have full access to print resources, on-site services, and Northeastern University Library's online resources.",
+        "library_hours_link": "https://library.northeastern.edu/oakland_campus/about-the-f-w-olin-library/hours/",
+        "study_room_reservation_link": "https://nuoakland.libcal.com/reserve/StudyRooms",
+        "note": "Check library hours before visiting and reserve study rooms for private study spaces."
+    },
+    "resources": {
+        "articles_books_search": "Search for journal articles, books, and more on any topic.",
+        "article_search_link": "https://onesearch.library.northeastern.edu/discovery/search?vid=01NEU_INST:NU_Olin",
+        "research_subject_guide": "Use a research subject guide to get started.",
+        "research_subject_guide_link": "https://subjectguides.lib.neu.edu/",
+        "journal_finder": "Search for a specific journal, newspaper, or other periodical by title.",
+        "journal_finder_link": "https://onesearch.library.northeastern.edu/discovery/jsearch?vid=01NEU_INST:NU_Olin",
+        "research_databases": "View a complete list of research databases.",
+        "research_databases_link": "https://library.northeastern.edu/administration/databases/",
+        "ebook_audiobook_collection": "Browse new and popular e-book and audiobook titles from the library’s OverDrive collection.",
+        "overdrive_link": "https://northeasternuni.overdrive.com/"
+    },
+    "contact_information": {
+        "staff_directory": "https://library.northeastern.edu/administration/library-staff-directory/?ul_filter_department=F.+W.+Olin+Library",
+        "circulation": {
+            "phone": "(510) 430-219",
+            "email": "circadmin-oak@northeastern.edu"
+        },
+        "reference": {
+            "phone": "(510) 430-2385",
+            "email": "askalibmills@northeastern.libanswers.com"
+        },
+        "librarian_appointment_link": "https://nuoakland.libcal.com/appointments/"
+    }
+},
+"rothwell_center": {
+    "description": "The Rothwell Center serves as the hub for student activities, community engagement, and leadership development on the Northeastern Oakland campus.",
+    "features": {
+        "lounges": [
+            {
+                "name": "Solidarity Lounge (S Lounge)",
+                "description": "An empowering space for students of color and their allies, featuring a prayer/meditation room, quiet study areas, snacks, and supplies.",
+                "hours": "Monday through Friday, 8:30 a.m.–8:00 p.m."
+            },
+            {
+                "name": "LGBTQIA2S Lounge",
+                "description": "A welcoming space for LGBTQIA2S students to study, hold meetings, and gather for programs and events. Snacks, refreshments, and study materials are provided.",
+                "hours": "Monday through Friday, 8:30 a.m.–8:00 p.m."
+            },
+            {
+                "name": "Cyclone Recreation Room",
+                "description": "A recreation space with tables, a TV, bean bags, couches, board games, card games, and ping pong tables. Snacks and beverages are available nearby.",
+                "hours": "Monday through Friday, 8:30 a.m.–12:00 a.m.; Saturday and Sunday, 4:00 p.m.–12:00 a.m."
+            },
+            {
+                "name": "Parenting Lounge",
+                "description": "A dedicated space for student parents, featuring a play area, lactation nook, refrigerator, and study table. Access to the Mary Atkins Legacy Lounge kitchen is also provided.",
+                "hours": "Monday through Friday, 8:30 a.m.–8:00 p.m.",
+                "access": "Requires key access."
+            },
+            {
+                "name": "Mary Atkins Legacy Lounge",
+                "description": "A commemorative space honoring Mary Atkins, equipped with comfortable seating, snacks, coffee, tea, and communal school supplies.",
+                "hours": "Monday through Friday, 8:30 a.m.–12:00 a.m.; Saturday and Sunday, 4:00 p.m.–12:00 a.m.",
+                "access": "Requires key access."
+            },
+            {
+                "name": "Student Leadership Lounge",
+                "description": "A space for student clubs and organizations to host meetings, access supplies, and connect with peers. Includes the ASMC President’s office.",
+                "hours": "Monday through Friday, 8:30 a.m.–8:00 p.m."
+            }
+        ],
+        "services": [
+            {
+                "name": "Mail and Copy Center",
+                "description": "Mail services, printing, copying, and shipping support for students. Residential students have individual mailboxes."
+            },
+            {
+                "name": "Student Clubs and Organizations",
+                "description": "A place for organizing and participating in clubs focused on academics, arts, recreation, and more. Hosts the annual Club and Community Action Fair.",
+                "link": "https://oakland.northeastern.edu/student-resources/student-activities/clubs-and-organizations/"
+            }
+        ]
+    },
+    "leadership_development": {
+        "description": "Facilitates leadership opportunities for students to apply in academics, community advocacy, and professional work. Advisors support the Associated Students of Mills College (ASMC).",
+        "link": "https://oakland.northeastern.edu/student-resources/student-activities/student-government/"
+    },
+    "activities": {
+        "description": "Organizes a variety of social events, skill-building workshops, and other activities throughout the year.",
+        "event_planning_support": "Offers guidance to students planning events, even if they are not affiliated with clubs or organizations."
+    },
+    "contact_info": {
+        "phone": "510.430.3151",
+        "email": "oaklandclee@northeastern.edu"
+    }
+}
+
+
+
+
+}
